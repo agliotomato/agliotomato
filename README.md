@@ -1,5 +1,7 @@
-## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Everything's%20Gonna%20Be%20Alright)
+### Allright24
+
+### Everything's Gonna Be Alright
+
 
 <!--
 **agliotomato/agliotomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
