@@ -1,7 +1,9 @@
 ### Allright24🔥
 ### Everything's Gonna Be Alright
 
-
+- 🔭 I’m currently working on KW univ
+- 🌱 I’m currently learning Deep Learning, Generative AI model, Machine Learning
+- 📫 How to reach me: skht0158@gmail.com
 <!--
 **agliotomato/agliotomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
